@@ -49,7 +49,10 @@
 #navbar{
   font-weight: bold;
 }
-      
+      .text-dark {
+    --bs-text-opacity: 1;
+    color: rgb(210 217 225) !important;
+}
 
 .progress{
     --bs-progress-bar-bg: #002e32;
